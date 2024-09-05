@@ -1,2 +1,2 @@
 # readme
-I am a graduate student from Ningbo University, China.
+My name is Zhang Ziyang, and I am a graduate student from Ningbo University in China.
